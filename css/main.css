@@ -2,10 +2,6 @@
   font-family : '도현';
   src : url(font/DoHyeon-Regular.ttf)
 }
-@font-face {
-  font-family : 'NotoSans';
-  src : url(font/NotoSansKR-Regular.ttf)
-}
 .layout {
   font-family: '도현';
 }
