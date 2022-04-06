@@ -1,10 +1,12 @@
 @font-face {
   font-family : '도현';
   src : url(font/DoHyeon-Regular.ttf)
+  font-family : 'NotoSans';
+  src : url(font/NotoSansKR-Regular.ttf)
 }
 
 .layout {
-  font-family: '도현', serif;
+  font-family: '도현';
 }
 #wrapper{
   width:980px;margin:0px auto;padding:20px;border-style:dotted;border-radius:20px;border:1px solid #828282;
