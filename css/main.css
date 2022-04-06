@@ -1,20 +1,19 @@
 @font-face {
-  font-family : '도현';
+  font-family : 'DoHyeon';
   src : url(font/DoHyeon-Regular.ttf)
 }
 @font-face {
-  font-family : 'Noto';
+  font-family : 'NotoSans';
   src : url(font/NotoSansKR-Regular.otf)
 }
 
 .layout {
-  font-family: '도현', serif;
+  font-family: 'DoHyeon';
 }
 .present {
-  font-family: 'Noto', serif;
+  font-family: 'NotoSans';
   text-align:center;
 }
-
 
 #wrapper{
   width:980px;margin:0px auto;padding:20px;border-style:dotted;border-radius:20px;border:1px solid #828282;
