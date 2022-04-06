@@ -29,9 +29,9 @@
   clear:both;border-style:groove,margin:0px 5px; background-color: #fff; color:black;text-align:center;border:1px solid #828282;
 }
 .layout {
-  font-family: '도현';
+  font-family: '도현', serif;
 }
 .present {
-  font-family: 'Noto'
+  font-family: 'Noto', serif;
   text-align:center;
 }
