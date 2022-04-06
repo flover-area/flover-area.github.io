@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="ko">
+	<head>
+		<meta charset="UTF-8">
+		<title>fromis_9 개인 팬사이트-3 </title>		
+	</head>
+	
+
+	<body style="background-color:#bbbadc">
+		
+		<div>
+			<h1 style="color:#fff26f">fromis_9</h1>
+			<video src="/img/bugakbugak.mp4" />
+			<p>여러분!</p>
+			<p>부각을 먹으면</p>
+			<p>부각부각 소리가 나요!</p>
+			</div>
+	</body>
+</html>
