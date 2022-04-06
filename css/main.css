@@ -2,12 +2,11 @@
   font-family : '도현';
   src : url(font/DoHyeon-Regular.ttf)
 }
-.layout {
-  font-family: '도현';
+@font-face {
+  font-family : 'Noto';
+  src : url(font/NotoSans-Regular.ttf)
 }
-.present {
-  text-align:center;
-}
+
 #wrapper{
   width:980px;margin:0px auto;padding:20px;border-style:dotted;border-radius:20px;border:1px solid #828282;
 }
@@ -28,4 +27,11 @@
 }
 #footer{
   clear:both;border-style:groove,margin:0px 5px; background-color: #fff; color:black;text-align:center;border:1px solid #828282;
+}
+.layout {
+  font-family: '도현';
+}
+.present {
+  font-family: 'Noto'
+  text-align:center;
 }
