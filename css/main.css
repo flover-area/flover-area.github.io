@@ -3,6 +3,10 @@
   src : url(font/DoHyeon-Regular.ttf)
 }
 
+layout {
+  font-family: '도현', serif;
+}
+
 p {
   font-family: '도현', serif;
 }
