@@ -1,17 +1,17 @@
 @font-face {
-  font-family : 'DoHyeon';
+  font-family : DoHyeon;
   src : url('/font/DoHyeon-Regular.ttf') format('truetype');
 }
 @font-face {
-  font-family : 'NotoSans';
+  font-family : NotoSans;
   src : url('/font/NotoSansKR-Regular.otf') format('truetype');
 }
 
 .layout {
-  font-family: 'DoHyeon', sans-serif;;
+  font-family: DoHyeon, sans-serif;
 }
 .present {
-  font-family: 'NotoSans', sans-serif;;
+  font-family: NotoSans, sans-serif;
   text-align:center;
 }
 
