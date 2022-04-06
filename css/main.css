@@ -7,6 +7,15 @@
   src : url(font/NotoSansKR-Regular.otf)
 }
 
+.layout {
+  font-family: '도현', serif;
+}
+.present {
+  font-family: 'Noto', serif;
+  text-align:center;
+}
+
+
 #wrapper{
   width:980px;margin:0px auto;padding:20px;border-style:dotted;border-radius:20px;border:1px solid #828282;
 }
@@ -27,11 +36,4 @@
 }
 #footer{
   clear:both;border-style:groove,margin:0px 5px; background-color: #fff; color:black;text-align:center;border:1px solid #828282;
-}
-.layout {
-  font-family: '도현', serif;
-}
-.present {
-  font-family: 'Noto', serif;
-  text-align:center;
 }
