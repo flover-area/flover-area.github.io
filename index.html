@@ -8,12 +8,13 @@
 	<link rel="stylesheet" href="css/main.css">
 	<body style="background-color:#bbbadc">
 		
-		
+		<audio autoplay id="myaudio">
 		<iframe src="/music/유리구두.mp3" allow="autoplay" id="audio" style="display:none"></iframe>
-		
+		</audio>
+			
 		<script>
-			var audio=document.getElementById("/music/유리구두.mp3");
-			audio.volume=0.2;
+			var audio=document.getElementById("myaudio");
+			audio.volume=0;
 		</script>
 		
 		<div class="layout">	
