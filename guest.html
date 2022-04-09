@@ -8,6 +8,10 @@
         <link rel="stylesheet" href="/css/home.css">
         <link rel="stylesheet" href="/css/guest.css">
         <script src="https://kit.fontawesome.com/862f1afc4c.js" crossorigin="anonymous"></script>
+        <link rel="stylesheet" type="text/css" media="screen" href="/css/comment.css"> 
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+
+
     </head>
     <body>
         <div class="bookcover">
@@ -66,9 +70,18 @@
                                         <div class="guest-text">여친이 저녁즈음에 한강이 너무 예쁘다길래 오 그쵸 예쁘죠 했더니 "역시 고구려 백제 신라가 서로 손에 넣으려고 싸울만 했다"는 표현을 해서 잠시 어떤 대답을 해야할지 당황하고 말았음.</div>
                                     </div>
                                 </div>
-                                <div class="add-button"><button><i class="fas fa-plus-circle icon"></i>방명록 작성하기</button></div>
+                                <div id="form-commentInfo"> 
+                                    <div id="comment-count">댓글 <span id="count">0</span></div> 
+                                    <input id="comment-input" placeholder="댓글을 입력해 주세요."> 
+                                    <button id="submit">등록</button> 
+                                </div> 
+                                <div id=comments> 
+                                </div> 
+                                <script src="/js/comment.js"></script>
+
+
                             </div>
-                            <script src="/js/comment.js"></script>
+                            
 
                         </div>
                     </div>
