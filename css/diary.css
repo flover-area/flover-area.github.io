@@ -67,3 +67,8 @@
 .icon {
     margin-right: 5px;
 }
+
+
+#secret-box {
+    display: none;
+}
